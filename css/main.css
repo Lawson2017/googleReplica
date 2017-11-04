@@ -3,6 +3,7 @@
 ul.nav {
 	float: right;
 	margin-right: 25px;
+	margin-top: 0;
 }
 
 ul.nav li {
